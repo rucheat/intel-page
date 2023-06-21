@@ -1,0 +1,54 @@
+p.filter-list-title {
+	font-weight: normal !important;
+}
+
+/* INC001148886 temp fix for asset detail template title text - remove after next push 5/28ish*/
+.assetdetailtemplateD #content .content-well.has-right-rail,
+.assetdetailtemplateA #content .content-well.has-right-rail,
+.assetdetailtemplateI #content .content-well.has-right-rail{
+        margin-top:0 !important;
+}
+/* end INC001148886 */
+
+/* INC001135889*/
+.marquee-module.showcase a {
+display: block;
+}
+
+/* INC001189837 temp fix - remove after next push 5/28ish */
+.accordian-navigation .accordiannavigation h1 {
+    padding: 18px !important;
+}
+/* end INC001189837 */
+
+/* INC001215681 temp fix - remove after next push 5/28ish */
+.imagetextnuance div.nuance-text div.button span.left {
+    width: 9px; 
+}
+/* end INC001215681 */
+
+/* INC001132893 temp fix for chat feature - remove after next push 5/28ish */
+.proactivechat .prochatbox .prochatbutton {bottom:2px;margin-left:-5px;}
+.prochatbox {bottom:30px;}
+.prochatbox .prochatbutton {margin-left:45px;}
+/* end INC001132893 */
+/*
+     FILE ARCHIVED ON 04:32:10 Aug 21, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:21:45 Jun 21, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 285.84
+  exclusion.robots: 0.149
+  exclusion.robots.policy: 0.14
+  cdx.remote: 0.06
+  esindex: 0.006
+  LoadShardBlock: 248.339 (3)
+  PetaboxLoader3.resolve: 192.665 (3)
+  PetaboxLoader3.datanode: 97.28 (4)
+  load_resource: 100.814
+*/
